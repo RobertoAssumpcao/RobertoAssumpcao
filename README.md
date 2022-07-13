@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ....
+- 🌱 I’m currently learning Python and Rust.
 - 📫 How to reach me: betoassumpcao@protonmail.com
 
 <div align="center">
