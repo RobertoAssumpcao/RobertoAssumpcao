@@ -6,7 +6,7 @@
 
 ## Public information
 
-My name is Roberto Assumpção.  I am currently studying Computer Science. I have experience developing with C# MVC.
+My name is Roberto Assumpção.  I am currently studying Computer Science. I have experience developing with C# .NET.
 In my spare time I study C, C++ and new technologies like Rust.
 
 ## Detailed information
