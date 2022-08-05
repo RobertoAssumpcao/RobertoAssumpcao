@@ -21,6 +21,6 @@ I started to like computers when I was very young, and I decided to be a develop
 
 <div align="center">
   <a href="https://github.com/RobertoAssumpcao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAssumpcao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAssumpcao&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAssumpcao&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAssumpcao&layout=compact&langs_count=7&theme=dark">
 </div>
