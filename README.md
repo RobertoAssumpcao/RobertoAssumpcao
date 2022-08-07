@@ -19,6 +19,8 @@ In my spare time I study C, C++ and new technologies like Rust.
 
 I started to like computers when I was very young, and I decided to be a developer the day my mother and I was playing a chess game made in Java and said that I liked the game from that day I decided to be a developer.
 
+In 2020 I was a finalist at Hacking Rio with a web development project.
+
 <div align="center">
   <a href="https://github.com/RobertoAssumpcao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAssumpcao&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
