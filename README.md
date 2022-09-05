@@ -21,6 +21,8 @@ I started to like computers when I was very young, and I decided to be a develop
 
 In 2020 I was a finalist at Hacking Rio with a web development project for the Sotreq company.
 
+- 📫 Read my posts: [DEV.to](https://dev.to/robertoassumpcao)
+
 <div align="center">
   <a href="https://github.com/RobertoAssumpcao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAssumpcao&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
