@@ -6,21 +6,17 @@
 
 ## Public information
 
-My name is Roberto Assumpção.  I am currently studying Computer Science. I have experience developing with C# .NET.
+My name is Roberto Assumpção.  I am currently studying Computer Science. I have experience developing with C#.
 
 ## Detailed information
 
 * **Name**: Roberto Assumpção.
-* **Stack**: C# - .NET - Bootstrap - SQL - AWS.
+* **Stack**: C# - Angular - Bootstrap - SQL - Azure.
 * **University**: Computer science.
 
 ## Curiosities about me
 
-I started to like computers when I was very young, and I decided to be a developer the day my mother and I was playing a chess game made in Java and said that I liked the game from that day I decided to be a developer.
-
 In 2020 I was a finalist at Hacking Rio with a web development project for the Sotreq company.
-
-- 📫 Read my posts: [DEV.to](https://dev.to/robertoassumpcao)
 
 <div align="center">
   <a href="https://github.com/RobertoAssumpcao">
