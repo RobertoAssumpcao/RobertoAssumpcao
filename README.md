@@ -4,19 +4,17 @@
     </a>
 </div>
 
-## Public information
+“Todas as vossas obras sejam feitas com amor.” 1 Coríntios 16:14
 
-My name is Roberto Assumpção.  I am currently studying Computer Science. I have experience developing with C#.
-
-## Detailed information
-
-* **Name**: Roberto Assumpção.
-* **Stack**: C - C# - Angular - Bootstrap - SQL - Azure.
-* **University**: Computer science.
-
-## Curiosities about me
-
-In 2020 I was a finalist at Hacking Rio with a web development project for the Sotreq company.
+Cursando Ciência da computação, atualmente no 6 período.
+Em 2020 fui finalista no Hacking Rio 2020 desenvolvendo um projeto web para a empresa sotreq.
+Tecnologias que tenho conhecimento e/ou projetos feitos no github:
+- Back-end: C# ( .Net core e .Net framework).
+- Front-end: Bootstrap, HTML, CSS, Javascript, Angular, TypeScript, Jquery.
+- Banco de dados: Microsoft SQL server.
+- Criações de aplicações em arquitetura MVC.
+- DevOps: Azure, banco de dados SQL, aplicativos web Azure, SQL server.
+Em constante estudo com cursos e livros para me aperfeiçoar e adquirir novos conhecimentos.
 
 <div align="center">
   <a href="https://github.com/RobertoAssumpcao">
