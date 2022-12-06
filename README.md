@@ -11,7 +11,7 @@ My name is Roberto Assumpção.  I am currently studying Computer Science. I hav
 ## Detailed information
 
 * **Name**: Roberto Assumpção.
-* **Stack**: C# - Angular - Bootstrap - SQL - Azure.
+* **Stack**: C - C# - Angular - Bootstrap - SQL - Azure.
 * **University**: Computer science.
 
 ## Curiosities about me
