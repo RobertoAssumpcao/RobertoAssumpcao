@@ -5,7 +5,7 @@
 </div>
 
 Cursando Ciência da computação, atualmente no 6 período.
-Em 2020 fui finalista no Hacking Rio 2020 desenvolvendo um projeto web para a empresa sotreq.
+Em 2020 fui finalista no Hacking Rio 2020 desenvolvendo um projeto web.
 - Tecnologias que tenho conhecimento:
 - Back-end: C, C# ( .Net core e .Net framework).
 - Front-end: Bootstrap, HTML, CSS, Javascript, Angular, TypeScript, Jquery.
