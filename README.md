@@ -4,7 +4,7 @@
     </a>
 </div>
 
-Cursando Ciência da computação, atualmente no 6 período.
+Cursando Ciência da computação, atualmente no 7 período.
 Em 2020 fui finalista no Hacking Rio 2020 desenvolvendo um projeto web.
 - Tecnologias que tenho conhecimento:
 - Back-end: C, C# ( .Net core e .Net framework).
