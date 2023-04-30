@@ -4,8 +4,6 @@
     </a>
 </div>
 
-“Todas as vossas obras sejam feitas com amor.” 1 Coríntios 16:14
-
 Cursando Ciência da computação, atualmente no 6 período.
 Em 2020 fui finalista no Hacking Rio 2020 desenvolvendo um projeto web para a empresa sotreq.
 - Tecnologias que tenho conhecimento:
