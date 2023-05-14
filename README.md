@@ -8,7 +8,7 @@ Cursando Ciência da computação, atualmente no 7 período.
 Em 2020 fui finalista no Hacking Rio 2020 desenvolvendo um projeto web.
 - Tecnologias que tenho conhecimento:
 - Back-end: C, C# ( .Net core e .Net framework).
-- Front-end: Bootstrap, HTML, CSS, Javascript, Angular, TypeScript, Jquery.
+- Front-end: Bootstrap, HTML, CSS, Javascript, Angular, TypeScript, Angular JS.
 - Banco de dados: Microsoft SQL server.
 - Criações de aplicações em arquitetura MVC e restAPI.
 - DevOps: Azure, banco de dados SQL, aplicativos web Azure, SQL server.
