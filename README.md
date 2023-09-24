@@ -5,8 +5,8 @@ Meu nome é Roberto Assumpção e sou estudante de Ciência da Computação, atu
 ## Sobre Mim
 
 - **Curso:** Ciência da Computação (8º período)
-- **Experiência:** Finalista no Hacking Rio 2020
-- **GitHub:** [Seu Perfil do GitHub](https://github.com/RobertoAssumpcao)
+- **Experiência:** Finalista no Hacking Rio 2020, Fundador do projeto Cristal Map. [Link](https://github.com/CristalMap)
+- **GitHub:** [Link](https://github.com/RobertoAssumpcao)
 
 ## Tecnologias e Habilidades
 
