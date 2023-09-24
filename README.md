@@ -1,20 +1,29 @@
-<div>
-    <a target='_blank' href="https://www.linkedin.com/in/roberto-assumpcao/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</div>
+# Bem-vindo ao meu perfil do GitHub!
 
-Cursando Ciência da computação, atualmente no 8 período.
-Em 2020 fui finalista no Hacking Rio 2020 desenvolvendo um projeto web.
-- Tecnologias que tenho conhecimento:
-- Back-end: C, C# ( .Net core e .Net framework).
-- Front-end: Bootstrap, HTML, CSS, Javascript, Angular, TypeScript, Angular JS.
-- Banco de dados: Microsoft SQL server.
-- Criações de aplicações em arquitetura MVC e restAPI.
-- DevOps: Azure, banco de dados SQL, aplicativos web Azure, SQL server.
+Meu nome é Roberto Assumpção e sou estudante de Ciência da Computação, atualmente no 8º período. Em 2020, tive a honra de ser finalista no [Hacking Rio 2020](https://hackingrio.com/), onde desenvolvi um projeto web incrível.
 
-<div align="center">
-  <a href="https://github.com/RobertoAssumpcao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAssumpcao&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAssumpcao&layout=compact&langs_count=7&theme=dark">
-</div>
+## Sobre Mim
+
+- **Curso:** Ciência da Computação (8º período)
+- **Experiência:** Finalista no Hacking Rio 2020
+- **GitHub:** [Seu Perfil do GitHub](https://github.com/RobertoAssumpcao)
+
+## Tecnologias e Habilidades
+
+Tenho experiência nas seguintes áreas:
+
+- **Back-end:** C, C# (.NET Core e .NET Framework)
+- **Front-end:** Bootstrap, HTML, CSS, JavaScript, Angular, TypeScript, Angular JS
+- **Banco de Dados:** Microsoft SQL Server
+- **Arquitetura:** Desenvolvimento de aplicações em arquitetura MVC e REST API
+- **DevOps:** Azure, Banco de Dados SQL, Aplicativos Web Azure, SQL Server
+
+## Estatísticas do GitHub
+
+Aqui estão algumas estatísticas do meu GitHub:
+
+![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoAssumpcao&show_icons=true&theme=dark)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAssumpcao&layout=compact&langs_count=7&theme=dark)
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração. Estou ansioso para conectar com a comunidade GitHub!
