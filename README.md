@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Meu nome é Roberto Assumpção e sou estudante de Ciência da Computação, atualmente no 8º período. Em 2020, tive a honra de ser finalista no [Hacking Rio 2020](https://hackingrio.com/), onde desenvolvi um projeto web incrível.
+Meu nome é Roberto Assumpção e sou Formado em Ciência da computação. Em 2020, tive a honra de ser finalista no [Hacking Rio 2020](https://hackingrio.com/), onde desenvolvi um projeto web.
 
 ## Sobre Mim
 
