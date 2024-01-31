@@ -18,7 +18,7 @@ Tenho experiência nas seguintes áreas:
 - **Arquitetura:** Desenvolvimento de aplicações em arquitetura MVC e REST API
 - **DevOps:** Azure, Banco de Dados SQL, Aplicativos Web Azure, SQL Server
 
-<!--## Estatísticas do GitHub
+## Estatísticas do GitHub
 
 Aqui estão algumas estatísticas do meu GitHub:
 
@@ -26,4 +26,4 @@ Aqui estão algumas estatísticas do meu GitHub:
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAssumpcao&layout=compact&langs_count=7&theme=dark)
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração. Estou ansioso para conectar com a comunidade GitHub!-->
+Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração. Estou ansioso para conectar com a comunidade GitHub!
