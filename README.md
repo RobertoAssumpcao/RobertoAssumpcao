@@ -4,7 +4,7 @@ Meu nome é Roberto Assumpção e sou Formado em Ciência da computação. Em 20
 
 ## Sobre Mim
 
-- **Curso:** Ciência da Computação (8º período)
+- **Curso:** Ciência da Computação.
 - **Experiência:** Finalista no Hacking Rio 2020, Fundador do projeto Cristal Map. [Link](https://github.com/CristalMap)
 - **GitHub:** [Link](https://github.com/RobertoAssumpcao)
 
