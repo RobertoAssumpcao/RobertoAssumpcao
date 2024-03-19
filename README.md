@@ -15,7 +15,7 @@ Tenho experiência nas seguintes áreas:
 - **Back-end:** C, C# (.NET Core e .NET Framework)
 - **Front-end:** Bootstrap, HTML, CSS, JavaScript, Angular, TypeScript, Angular JS
 - **Banco de Dados:** Microsoft SQL Server
-- **Arquitetura:** Desenvolvimento de aplicações em arquitetura MVC e REST API (DDD, TDD, DAL).
+- **Arquitetura:** Desenvolvimento de aplicações em arquitetura MVC e REST API (DDD, TDD, DAL, DAO).
 - **DevOps:** Azure, Banco de Dados SQL, Aplicativos Web Azure, SQL Server
 
 ## Estatísticas do GitHub
