@@ -1,11 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Meu nome é Roberto Assumpção e sou Formado em Ciência da computação. Em 2020, tive a honra de ser finalista no [Hacking Rio 2020](https://br.linkedin.com/company/hacking-rio), onde desenvolvi um projeto web.
-
-## Sobre Mim
-
-- **Curso:** Ciência da Computação.
-- **Experiência:** Finalista no Hacking Rio 2020, Fundador do projeto [Cristal Map](https://github.com/CristalMap).
+Meu nome é Roberto Assumpção e sou formado em Ciência da computação. Em 2020, tive a honra de ser finalista no [Hacking Rio 2020](https://br.linkedin.com/company/hacking-rio), onde desenvolvi um projeto web.
 
 ## Tecnologias e Habilidades
 
