@@ -1,23 +1,23 @@
-# Bem-vindo ao meu perfil do GitHub!
+# Welcome to my GitHub profile!
 
-Meu nome é Roberto Assumpção e sou formado em Ciência da computação. Em 2020, tive a honra de ser finalista no [Hacking Rio 2020](https://br.linkedin.com/company/hacking-rio), onde desenvolvi um projeto web.
+My name is Roberto Assumpção and I hold a degree in Computer Science. In 2020, I had the honor of being a finalist at [Hacking Rio 2020](https://br.linkedin.com/company/hacking-rio) and I'm the creator of the project [Cristal Map](https://github.com/CristalMap), where I developed a web project.
 
-## Tecnologias e Habilidades
+## Technologies and Skills
 
-Tenho experiência nas seguintes áreas:
+I have experience in the following areas:
 
-- **Back-end:** C, C# (.NET Core e .NET Framework)
+- **Back-end:** C, C# (.NET Core and .NET Framework)
 - **Front-end:** Bootstrap, HTML, CSS, JavaScript, Angular, TypeScript, Angular JS
-- **Banco de Dados:** Microsoft SQL Server, MySQL.
-- **Arquitetura:** Desenvolvimento de aplicações em arquitetura MVC e REST API (DDD, TDD, DAL, DAO).
+- **Database:** Microsoft SQL Server, MySQL.
+- **Architecture:** Development of applications in MVC architecture and REST API (DDD, TDD, DAL, DAO).
 - **DevOps:** AWS
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
-Aqui estão algumas estatísticas do meu GitHub:
+Here are some statistics from my GitHub:
 
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoAssumpcao&show_icons=true&theme=dark)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAssumpcao&layout=compact&langs_count=7&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAssumpcao&layout=compact&langs_count=7&theme=dark)
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração. Estou ansioso para conectar com a comunidade GitHub!
+Feel free to explore my repositories and get in touch with me if you have any questions or collaboration opportunities. I'm looking forward to connecting with the GitHub community!
