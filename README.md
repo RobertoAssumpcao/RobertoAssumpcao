@@ -6,8 +6,8 @@ My name is Roberto Assumpção and I hold a degree in Computer Science. In 2020,
 
 I have experience in the following areas:
 
-- **Back-end:** C, C# (.NET Core and .NET Framework)
-- **Front-end:** Bootstrap, HTML, CSS, JavaScript, Angular, Ionic, TypeScript,
+- **Back-end:** Python, C# (.NET Core and .NET Framework)
+- **Front-end:** Bootstrap, HTML, CSS, JavaScript, React, React native,
 - **Database:** Microsoft SQL Server, MySQL.
 - **Architecture:** Development of applications in MVC architecture and REST API.
 - **DevOps:** AWS
