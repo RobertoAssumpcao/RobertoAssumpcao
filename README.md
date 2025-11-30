@@ -75,9 +75,9 @@ Techs: **C# (.NET), Angular, SQL, Maps API**
 
 <div>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoAssumpcao&show_icons=true&theme=tokyonight&hide_border=true)
+![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoAssumpcao&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAssumpcao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAssumpcao&layout=compact&langs_count=7&theme=dark)
 
 </div>
 
