@@ -73,11 +73,13 @@ Techs: **C# (.NET), Angular, SQL, Maps API**
 
 ## 📊 GitHub Statistics
 
-<div>
-  
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoAssumpcao&show_icons=true&theme=dark)
+<div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAssumpcao&layout=compact&langs_count=7&theme=dark)
+<!-- Linguagens principais -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobertoAssumpcao&theme=github_dark" alt="Most Used Languages" />
+
+<!-- Estatísticas gerais -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RobertoAssumpcao&theme=github_dark" alt="Stats"/>
 
 </div>
 
